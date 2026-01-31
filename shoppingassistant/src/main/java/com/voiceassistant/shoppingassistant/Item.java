@@ -1,4 +1,5 @@
 package com.voiceassistant.shoppingassistant;
+
 import jakarta.persistence.*;
 import lombok.*;
 
